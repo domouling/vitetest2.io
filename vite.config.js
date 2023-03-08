@@ -14,5 +14,5 @@ export default defineConfig({
     }
   },
   plugins: [react()],
-  base: '/vitewebtest.io/'
+  base: '/vitetest2.io/'
 })
