@@ -1,0 +1,10 @@
+.btn-scss {
+    background-color: $secundary;
+    border-color: $secundary;
+    color: $textcolor;
+
+    &:hover {
+        background-color: green !important;
+        color: $textcolor !important;
+    }
+}

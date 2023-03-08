@@ -1,0 +1,18 @@
+.box-scss {
+    &:hover {
+        cursor: pointer;
+        background-color: $backcolor_hover;
+    }
+}
+
+.modal-header {
+    background-color: $backcolor_modal;
+
+    h5 {
+        color: $textcolor;
+    }
+}
+
+.modal-title {
+    color: $textcolor;
+}

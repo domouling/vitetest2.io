@@ -1,0 +1,17 @@
+.navbar-scss {
+    background-color: $primary;
+
+    .barra-nav {
+        padding: 20px !important;
+    }
+    
+    .nav-link {
+        color: $textcolor;
+    }   
+
+    .active {
+        color: $textcolor_select !important;
+        font-weight: bolder;
+    }
+
+}
