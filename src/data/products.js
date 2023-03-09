@@ -6,7 +6,7 @@ const products = [
         de frutos secos, sin maní. Creamos este delicioso untable con sabor chocolate y naranja. Contiene altos 
         niveles de vitaminas y minerales,te sorprenderás de su sabor.`,
         price: 200,
-        img: "cacao-c_1024x1024.webp",
+        img: "https://cdn.shopify.com/s/files/1/0617/3327/3821/products/7_1800x.png?v=1668520548",
         category: "sweet"
     },
     {
@@ -16,7 +16,7 @@ const products = [
         de frutos secos, sin maní. Creamos este delicioso untable de sabor suave a Ciboulette que refuerza nuestro 
         sistema inmune sin tener que adicionar suplementos.`,
         price: 200,
-        img: "ciboulette-e_1024x1024.webp",
+        img: "https://cdn.shopify.com/s/files/1/0617/3327/3821/products/8_1024x1024.png?v=1668520590",
         category: "salt"
     },
     {
@@ -26,7 +26,7 @@ const products = [
         a partir de frutos secos, sin maní. Es un irresistible mousse suave con el clásico sabor a avellanas y cacao, 
         pero sin azúcares añadidos ni lácteos, te sorprenderás de su sabor.`,
         price: 200,
-        img: "mousstela-untanuts-chocolate_1024x1024.webp",
+        img: "https://cdn.shopify.com/s/files/1/0617/3327/3821/products/3_1800x.png?v=1668520306",
         category: "sweet"
     },
     {
@@ -36,7 +36,7 @@ const products = [
         a partir de frutos secos sin maní. Este delicioso untable, con tomates secos, pimentón, albahaca y especias, 
         te llevarán a recorrer los sabores del mediterráneo.`,
         price: 200,
-        img: "mediterraneo-pate-untanuts_1024x1024.webp",
+        img: "https://cdn.shopify.com/s/files/1/0617/3327/3821/products/4_1800x.png?v=1668520262",
         category: "salt"
     }
 ]
