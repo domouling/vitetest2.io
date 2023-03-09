@@ -12,7 +12,7 @@ export const Packs = () => {
                 packs.map( pack => (
                     <div className="col-md text-start" key={ pack.id }>
                         <div className="card box-scss">
-                            <img src={`img/${pack.img}`} className="card-img-top" alt={pack.name} />
+                            <img src={`${pack.img}`} className="card-img-top" alt={pack.name} />
                             <div className="card-body">
                                 <h5 className="card-title fw-bolder">{ pack.name }</h5>
                                     Incluye:

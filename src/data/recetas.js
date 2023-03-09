@@ -4,7 +4,7 @@ const recetas = [
         name: 'Salmon en salsa Ciboulette',
         description: `La versatilidad de Untanuts hace que su textura pueda ser diluida para crear cremas 
         y salsas deliciosas. Ciboulette E es una fantástica manera de aportar vitamina E.`,
-        img: "Receta_Salmon.webp",
+        img: "https://cdn.shopify.com/s/files/1/0617/3327/3821/articles/salmon-con-salsa-untanuts-ciboulette.jpg?v=1659403327",
         recipet: {
             ingredients: [
                 '1 salmón de fuentes ecológicas y sustentables.',
@@ -27,7 +27,7 @@ const recetas = [
         name: 'Panqueque Rellenos',
         description: `Los panqueques de avena son una opción saludable, llena de fibra para nuestra microbiota. 
         ¡Junto con la dulzura natural de nuestra Moustella, hará de tus desayunos tu comida favorita!`,
-        img: "panqueque-relleno.webp",
+        img: "https://cdn.shopify.com/s/files/1/0617/3327/3821/articles/panqueque-relleno-mousstela.jpg?v=1659401196",
         recipet: {
             ingredients: [
                 '250 gramos de copos de avena (sin gluten).',
@@ -57,7 +57,7 @@ const recetas = [
         name: 'Lasaña de Zapallo Italiano',
         description: `Estás buscando una receta 100% Keto, sabrosa y llena de sabores que te evoquen los viajes y la exploración, esto es para 
         disfrutar en Familia y junto a tus mejores amigos!`,
-        img: "lasana-keto.webp",
+        img: "https://cdn.shopify.com/s/files/1/0617/3327/3821/articles/lasana-keto-untanuts.jpg?v=1659404275",
         recipet: {
             ingredients: [
                 'Tres Zapallos italianos grandes',

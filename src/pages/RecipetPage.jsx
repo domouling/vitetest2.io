@@ -18,7 +18,7 @@ export const RecipetPage = () => {
                     recetas.map( receta => (
                         <div className="col-md text-start" key={ receta.id }>
                             <div className="card box-scss" style={{width: "18rem"}}>
-                            <img src={`img/${receta.img}`} className="card-img-top" alt={ receta.name } />
+                            <img src={`${receta.img}`} className="card-img-top" alt={ receta.name } />
                             <div className="card-body">
                                 <h5 className="card-title"><strong>{ receta.name }</strong></h5>
                                 <p className="card-text">{ receta.description }</p>
