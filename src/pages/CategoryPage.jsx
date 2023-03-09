@@ -20,7 +20,7 @@ export const CategoryPage = () => {
                     <div className="col-md" key={ product.id }>
                         <Link to={`/item/${product.id}`}>
                             <div className="card box-scss">
-                                <img src={ `../../src/assets/img/${product.img}` } className="card-img-top" alt={ product.name } />
+                                <img src={ `img/${product.img}` } className="card-img-top" alt={ product.name } />
                                 <div className="card-body">
                                     <h5 className="card-title fw-bolder">{ product.name }</h5>
                                     <p className="card-text text-start">{ product.description }</p>

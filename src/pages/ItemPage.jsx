@@ -22,7 +22,7 @@ export const ItemPage = () => {
           </h3>
           <div className="row">
             <div className="col-md-4">
-              <img src={ `../src/assets/img/${item.img}` } className="card-img-top" alt={ item.name } />
+              <img src={ `img/${item.img}` } className="card-img-top" alt={ item.name } />
             </div>
             <div className="col-md d-flex flex-column justify-content-center align-items-start">
               <h5 className="card-title fw-bolder mb-4">{ item.name }</h5>
